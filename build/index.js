@@ -11,7 +11,7 @@
 /******/ 	var __webpack_modules__ = ({
 
 /***/ "./index.ts":
-/*!*****************!*\
+/*!****************!*\
   !*** ./index.ts ***!
   \******************/
 /***/ (function(__unused_webpack_module, exports, __webpack_require__) {
